@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Parcial 2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Halo the Game</string>
+    <string name="nav_header_subtitle"></string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Halo: Combat Evolved</string>
+    <string name="menu_gallery">Halo 2</string>
+    <string name="menu_slideshow">Halo 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
